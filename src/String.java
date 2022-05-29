@@ -1,5 +1,5 @@
-import java.util.Scanner;
-public class String {
+ java.util.Scanner;
+public class String {import
     public static void main(String args[]) {
         java.lang.String string1;
         java.lang.String string2;
@@ -12,7 +12,7 @@ public class String {
 
         if (string1 == string2) ;
         System.out.println("Equal String");
-        else
+        default
         {
             System.out.println("Not equal String");
         }
